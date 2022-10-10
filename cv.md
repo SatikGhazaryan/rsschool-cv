@@ -9,6 +9,8 @@ _satikghazaryan1@gmail.com_
  [Linkedin](https://github.com/SatikGhazaryan)
  
  ## Employment Experience
+ 
+ 
 >**Founding director 2017- now**
 >>It Training Center - Armavir 
 
@@ -17,6 +19,8 @@ _satikghazaryan1@gmail.com_
 
 >**Ui Programming Trainer 2016-2017**
 >>Mind Center -Erevan 
+
+
  ## Freelance Experience
  
  >**Within the framework of Technovation Girls Armenia contest
