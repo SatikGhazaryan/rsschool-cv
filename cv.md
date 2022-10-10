@@ -52,7 +52,7 @@ We received a Community Development Award from ServiceTitan Armenia
 * CSS3
 * CSS preprocessors (SASS)  
 * Bootstrap5
-
+* Git
 ## Code examples 
  
  * [Tic-Tac-Toe](https://github.com/SatikGhazaryan/Tic-Tac-Toe),
