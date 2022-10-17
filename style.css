@@ -1,5 +1,5 @@
 *{margin:0; color:#333}
-.centerBox{display: flex;justify-content: center;padding: 10px;}
+.center-Box{display: flex;justify-content: center;padding: 10px;}
 .row{display: flex;}
 .border{border-bottom: 1px solid #ddd; padding: 10px 30px;}
 .name{color:rgb(208, 5, 208); padding: 10px 0;}
